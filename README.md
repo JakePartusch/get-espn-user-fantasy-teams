@@ -4,7 +4,7 @@
 ```
 {
 	"username": "jake@abc.com",
-	"password": "mypasswore",
+	"password": "mypassword",
 	"apiKey": "abcdefgABCDEFGHIJKLMNOPQRSTUVWXYZ"
 }
 ```
